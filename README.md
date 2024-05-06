@@ -21,12 +21,12 @@ Your final product should be a brief report that highlights the differences betw
 
 # Methodology
 
-CRISP-DM framework was used to do the analysis of the dataset
-## - Business Understanding: 
+*CRISP-DM framework was used to do the analysis of the dataset
+## Business Understanding: 
 The first step was to understand the problem statement defined in module #5.1 exercise
-## - Data Understanding: 
+## Data Understanding: 
 Spent time to look at the initia data, then perform data description, data exploration and data quality. 
-## - Data Preparatation:
+## Data Preparatation:
 After analyzing the data, focused on fixed all missing values and incorrect data to create a good dataset that can be used for the remainder of the project
 In some cases, I had to reformat the data to ensure it has the correct datatype
 This allowed for data analysis, reporting, and making conclusions
@@ -39,5 +39,5 @@ Based on the data analysis, a few key observations have been done:
 
 # Repository Structure: 
 - /data - folder holds the coupons.csv data file used by the jupyter notebook
-README.md - this file provides all the details about the project
-Coupon Analysis_JF.ipnb jupyter notebook has the python code for this project
+- README.md - this file provides all the details about the project
+- Coupon Analysis_JF.ipnb jupyter notebook has the python code for this project

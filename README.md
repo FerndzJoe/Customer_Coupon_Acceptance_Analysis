@@ -38,6 +38,6 @@ Based on the data analysis, a few key observations have been done:
 
 
 # Repository Structure: 
-/data - folder holds the coupons.csv data file used by the jupyter notebook
+- /data - folder holds the coupons.csv data file used by the jupyter notebook
 README.md - this file provides all the details about the project
 Coupon Analysis_JF.ipnb jupyter notebook has the python code for this project

@@ -36,7 +36,10 @@ The Jupyter notebook uses Python, Panda, Numpy, Matplotlib, Seaborn, and Plotly 
 
 # Results
 Based on the data analysis, a few key observations have been done:
-
+- If a customer has been to a location, the rate of acceptance is high for Coffee House, Bar, and Cheap Restaurant
+- If the customer has not been to a location, the rate of acceptance is low for Expensive Restuarant
+- Age did not matter for both Coffee House and Cheap Restaurants. All age groups acceptance is higher
+- For Bar visits, age group does matter. Customers between 25 and 35 have higher chance of acceptance
 
 # Repository Structure: 
 - /data - folder holds the coupons.csv data file used by the jupyter notebook

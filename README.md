@@ -21,7 +21,8 @@ Your final product should be a brief report that highlights the differences betw
 
 # Methodology
 
-*CRISP-DM framework was used to do the analysis of the dataset
+CRISP-DM framework was used to do the analysis of the dataset
+
 ## Business Understanding: 
 The first step was to understand the problem statement defined in module #5.1 exercise
 ## Data Understanding: 

@@ -42,9 +42,9 @@ Based on the data analysis, a few key observations have been done:
 - For Bar visits, age group does matter. Customers between 25 and 35 have higher chance of acceptance
 
 # Next Steps:
-Analyze the data further for weather condition, time of day, income, and age. Also analyze if the customer will consider if the coupon was for opposite direction
-Analyze how the destination choice impacts acceptance - Traveling to Home, Work, or no urgent place.
-Analyze if the age and gender has a critical impact on the coupon acceptance. Also, does having a partner or friend along with the customer influence acceptance of coupon
+- Analyze the data further for weather condition, time of day, income, and age. Also analyze if the customer will consider if the coupon was for opposite direction
+- Analyze how the destination choice impacts acceptance - Traveling to Home, Work, or no urgent place.
+- Analyze if the age and gender has a critical impact on the coupon acceptance. Also, does having a partner or friend along with the customer influence acceptance of coupon
 
 # Repository Structure: 
 - /data - folder holds the coupons.csv data file used by the jupyter notebook

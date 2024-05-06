@@ -1,4 +1,4 @@
-# Customer_Coupons_Acceptance_Analysis
+# Customer Coupon Acceptance Analysis
 
 Will a Customer Accept the Coupon?
 Context
